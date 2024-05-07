@@ -1,1 +1,1 @@
-from ghcr.io/ppaiok/dockertoo:latest
+FROM ghcr.io/ppaiok/dockertoo:latest
